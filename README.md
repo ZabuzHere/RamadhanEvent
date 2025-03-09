@@ -161,22 +161,12 @@ RamadhanEvent/
 ```
 ---
 
-### 📜 Cara Install
-
-1. Download plugin ini dan ekstrak ke dalam folder plugins/ di server PocketMine.
-
-2. Sesuaikan pengaturan di config.yml sesuai dengan kebutuhan server.
-
-3. Jalankan ulang server, dan plugin akan langsung aktif!
-
----
-
 ### 🎯 Rencana Update Berikutnya
 
-✅ Sistem Khataman Quran – Pemain bisa menyelesaikan ayat dan mendapatkan hadiah.
-✅ Sistem Zakat Fitrah – Pemain wajib membayar zakat sebelum Idul Fitri.
-✅ Custom Quest Ramadhan – Misi harian untuk mendapatkan pahala tambahan.
-✅ NPC Kajian Islam – NPC yang memberikan ceramah dan motivasi Islami.
+- ✅ Sistem Khataman Quran – Pemain bisa menyelesaikan ayat dan mendapatkan hadiah.
+- ✅ Sistem Zakat Fitrah – Pemain wajib membayar zakat sebelum Idul Fitri.
+- ✅ Custom Quest Ramadhan – Misi harian untuk mendapatkan pahala tambahan.
+- ✅ NPC Kajian Islam – NPC yang memberikan ceramah dan motivasi Islami.
 
 ---
 
